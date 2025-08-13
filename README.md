@@ -21,11 +21,7 @@ Over the years, I’ve created projects ranging from **AI-powered apps**, **bloc
 GitHub: [flavorly.AI](https://github.com/Rohan-Adhav/flavorly.AI.git)  
 An **AI-powered recipe generator** that suggests meals based on available ingredients using **OpenAI API**.  
 **Tech Stack:** React.js, OpenAI API, Tailwind CSS  
-**Highlights:** Modern UI/UX, fast response, prompt engineering.  
-
-<div align="center">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80%" />
-</div>
+**Highlights:** Modern UI/UX, fast response, prompt engineering.
 
 ---
 
@@ -33,11 +29,7 @@ An **AI-powered recipe generator** that suggests meals based on available ingred
 GitHub: [memeGenerator](https://github.com/Rohan-Adhav/memeGenerator.git)  
 Generate and share memes instantly.  
 **Tech Stack:** React.js, HTML, CSS, JavaScript  
-**Highlights:** Interactive UI, meme download functionality, responsive design.  
-
-<div align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80%" />
-</div>
+**Highlights:** Interactive UI, meme download functionality, responsive design.
 
 ---
 
@@ -45,7 +37,7 @@ Generate and share memes instantly.
 GitHub: [Travel_journal](https://github.com/Rohan-Adhav/Travel_journal.git)  
 A platform to **plan, document, and share travel experiences**.  
 **Tech Stack:** React.js, Firebase, Node.js  
-**Highlights:** User authentication, real-time data sync, responsive design.  
+**Highlights:** User authentication, real-time data sync, responsive design.
 
 ---
 
@@ -53,7 +45,7 @@ A platform to **plan, document, and share travel experiences**.
 GitHub: [Tenzzies](https://github.com/Rohan-Adhav/Tenzzies.git)  
 A fun **dice game** built to practice React concepts and state management.  
 **Tech Stack:** React.js, CSS3, JavaScript  
-**Highlights:** Dynamic UI, game logic, interactive animations.  
+**Highlights:** Dynamic UI, game logic, interactive animations.
 
 ---
 
@@ -61,7 +53,7 @@ A fun **dice game** built to practice React concepts and state management.
 GitHub: [portfolio](https://github.com/Rohan-Adhav/portfolio.git)  
 My **personal portfolio** showcasing projects, skills, and achievements.  
 **Tech Stack:** React.js, Tailwind CSS  
-**Highlights:** Clean, modern design, responsive layout, interactive sections.  
+**Highlights:** Clean, modern design, responsive layout, interactive sections.
 
 ---
 
