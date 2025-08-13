@@ -3,7 +3,7 @@
 I’m a **Computer Engineering graduate (CGPA: 8.35)** with a passion for building **full-stack applications, AI projects, and data-driven solutions**.  
 Over the years, I’ve created projects ranging from **AI-powered apps**, **blockchain platforms**, **data dashboards**, to **interactive web apps**. I love crafting code that’s **clean, efficient, and solves real-world problems**.
 
-📍 Based in Nashik, India | 🌎 Open to remote opportunities  
+📍 Based in Nashik, India | 🌎 Open to  opportunities 
 💡 Always learning, experimenting, and pushing the boundaries of technology
 
 ---
