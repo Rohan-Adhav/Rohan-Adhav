@@ -150,10 +150,13 @@ Collection of **Java-based projects** covering OOP, data structures, and algorit
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rohan-Adhav&show_icons=true&theme=radical" height="180em" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Adhav&theme=radical" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Adhav&layout=compact&theme=radical" height="180em" />
+<!-- Main GitHub stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Rohan-Adhav&show_icons=true&theme=radical&count_private=true&hide_title=false&include_all_commits=true&line_height=30" alt="Rohan's GitHub Stats" />
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Adhav&layout=compact&theme=radical&langs_count=16&hide=html,css,scss,xml&custom_title=My%20Top%20Technologies" alt="Rohan's Top Languages & Technologies" />
 </p>
+
 
 ---
 
