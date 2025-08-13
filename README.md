@@ -123,17 +123,21 @@ Fine-tuned a **pre-trained transformer** for sentiment classification tasks.
 ## 🌐 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rohan-adhav-s15111115" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:rohanadhav78@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://rohan-adhav-portfolio.vercel.app/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="40"/>
-</a>
+  <a href="https://github.com/Rohan-Adhav" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rohan-adhav-s15111115" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://rohan-adhav-portfolio.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rohanadhav78@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40"/>
+  </a>
 </p>
 
 
