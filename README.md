@@ -24,11 +24,11 @@ Over the years, I’ve created projects ranging from **AI-powered apps**, **bloc
 <a href="https://github.com/Rohan-Adhav/portfolio.git"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
 <a href="https://github.com/Rohan-Adhav/PDF_MERGER"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
 <a href="https://github.com/Rohan-Adhav/Frontend_projects.git"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
-<a href="https://github.com/Rohan-Adhav/Data_analytics_projects.git"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<a href="https://github.com/Rohan-Adhav/CrowdFunding-Blockchain.git"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
 <a href="https://github.com/Rohan-Adhav/Data_analytics_projects.git"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 <a href="https://github.com/Rohan-Adhav/portfolio.git"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
 <a href="https://github.com/Rohan-Adhav/portfolio.git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-<a href="https://github.com/Rohan-Adhav/portfolio.git"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
+<a href="https://github.com/Rohan-Adhav/java_projecs.git"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /></a>
 </p>
 
 ---
