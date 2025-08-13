@@ -148,14 +148,18 @@ Collection of **Java-based projects** covering OOP, data structures, and algorit
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Skills Snapshot
 <p align="center">
-<!-- Main GitHub stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Rohan-Adhav&show_icons=true&theme=radical&count_private=true&hide_title=false&include_all_commits=true&line_height=30" alt="Rohan's GitHub Stats" />
-
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Adhav&layout=compact&theme=radical&langs_count=16&hide=html,css,scss,xml&custom_title=My%20Top%20Technologies" alt="Rohan's Top Languages & Technologies" />
+  <!-- Programming Languages -->
+  <a href="https://github.com/Rohan-Adhav/java_projecs.git"><img src="https://skillicons.dev/icons?i=java,cs,python,js,html,css" alt="Languages"/></a>
+  <!-- Frontend & Backend -->
+  <a href="https://github.com/Rohan-Adhav/Frontend_projects.git"><img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap" alt="Frontend & Backend"/></a>
+  <!-- Databases & Tools -->
+  <a href="https://github.com/Rohan-Adhav/Data_analytics_projects.git"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,powershell" alt="Databases & Tools"/></a>
+  <!-- Analytics & Libraries -->
+  <a href="https://github.com/Rohan-Adhav/Data_analytics_projects.git"><img src="https://skillicons.dev/icons?i=excel,powerbi,python" alt="Analytics & Libraries"/></a>
 </p>
+
 
 
 ---
