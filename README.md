@@ -153,7 +153,7 @@ Collection of **Java-based projects** covering OOP, data structures, and algorit
 Here’s a visual breakdown of my core technologies and expertise:
 
 <p align="center">
-  <img src="https://bing.com/th/id/BCEI.4a281bb5-ba66-4d27-beae-727089edadb3.png" alt="Skills Pie Chart" width="700"/>
+  <img src="/pie-chart.png" alt="Skills Pie Chart" width="700"/>
 </p>
 
 
