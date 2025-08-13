@@ -75,9 +75,10 @@ A fun **dice game** to practice React concepts and state management.
 **5. Portfolio Website**  
 - **Live:** [rohan-adhav-portfolio.vercel.app](https://rohan-adhav-portfolio.vercel.app/)  
 - **GitHub:** [portfolio](https://github.com/Rohan-Adhav/portfolio.git)  
-Personal portfolio showcasing projects, skills, and achievements.  
-**Tech Stack:** React.js, Tailwind CSS  
-**Highlights:** Clean, modern design, responsive layout, interactive sections.
+A personal portfolio showcasing **projects, skills, and achievements** with a clean and responsive layout.  
+**Tech Stack:** HTML, CSS, JavaScript  
+**Highlights:** Minimalist design, smooth navigation, mobile-friendly interface.
+
 
 ---
 
@@ -93,18 +94,20 @@ Automates **PDF merging, parsing, and conversion**.
 **7. TO-DO List**  
 - **Live:** [to-do-list-rohan.vercel.app](https://to-do-list-rohan.vercel.app/)  
 - **GitHub:** [TO_DO_LIST](https://github.com/Rohan-Adhav/TO_DO_LIST.git)  
-Simple **task management app** to stay organized.  
-**Tech Stack:** React.js, JavaScript, CSS  
-**Highlights:** Add/remove tasks, responsive design, minimalistic UI.
+A simple and effective **task management app** to help users stay organized and productive.  
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+**Highlights:** Add/remove tasks, responsive design, clean UI with Bootstrap styling.
+
 
 ---
 
-**8. Wedding Hall Booking**  
+**8. **8. Wedding Hall Booking**  
 - **Live:** [to-do-list-rohan.vercel.app](https://to-do-list-rohan.vercel.app/)  
 - **GitHub:** [wedding_hall](https://github.com/Rohan-Adhav/wedding_hall.git)  
-Online booking platform for wedding venues.  
-**Tech Stack:** React.js, Firebase  
-**Highlights:** Booking system, real-time data sync, interactive interface.
+An online platform for **booking wedding venues**, designed to simplify event planning and reservations.  
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+**Highlights:** Booking system, responsive layout, user-friendly interface.
+
 
 ---
 
@@ -115,16 +118,21 @@ Collection of **small-to-medium frontend projects** demonstrating UI/UX skills.
 
 ---
 
-**10. Python Projects**  
+**10.**10. Python Projects**  
 - **GitHub:** [python](https://github.com/Rohan-Adhav/python.git)  
-Compilation of **Python scripts & automation projects**, showcasing problem-solving and algorithms.
+A compilation of **Python scripts and automation projects**, showcasing problem-solving, AI integration, and algorithmic thinking.  
+**Tech Stack:** Python, OpenAI API  
+**Highlights:** Intelligent automation, API-driven solutions, clean and modular code.
+
 
 ---
 
 **11. Data Analytics Projects**  
 - **GitHub:** [Data_analytics_projects](https://github.com/Rohan-Adhav/Data_analytics_projects.git)  
-Projects that **analyze, visualize, and interpret data** for actionable insights.  
-**Tech Stack:** Power BI, Python, Excel
+Projects that **analyze, visualize, and interpret data** to uncover actionable insights using both Python and business intelligence tools.  
+**Tech Stack:** Jupyter Notebook, Google Colab, Seaborn, NumPy, Pandas, Matplotlib, Power BI, Excel  
+**Highlights:** Data cleaning, exploratory analysis, dashboard creation, insightful visualizations, real-world datasets.
+
 
 ---
 
