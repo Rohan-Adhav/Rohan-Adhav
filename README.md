@@ -37,10 +37,10 @@ Over the years, I’ve created projects ranging from **AI-powered apps**, **bloc
 
 **1. Flavorly AI**  
 - **Live:** [flavorly-ai-rohan.vercel.app](https://flavorly-ai-rohan.vercel.app/)  
-- **GitHub:** [flavorly.AI](https://github.com/Rohan-Adhav/flavorly.AI.git)  
-An **AI-powered recipe generator** suggesting meals based on available ingredients using **OpenAI API**.  
-**Tech Stack:** React.js, OpenAI API, Tailwind CSS  
-**Highlights:** Modern UI/UX, fast response, prompt engineering.
+- **GitHub:** [Flavorly.AI](https://github.com/Rohan-Adhav/flavorly.AI.git)  
+An **AI-powered recipe generator** that suggests meals based on available ingredients using the **Hugging Face API**.  
+**Tech Stack:** React.js, Vite, Hugging Face API, HTML, CSS, JavaScript  
+**Highlights:** Fast response, modern UI/UX, prompt engineering, AI integration.
 
 ---
 
