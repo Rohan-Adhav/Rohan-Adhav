@@ -103,10 +103,10 @@ Over the years, I’ve created projects ranging from **AI-powered apps**, **bloc
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/rohan-adhav-s15111115">🔗 LinkedIn</a> &nbsp;&nbsp;
-<a href="mailto:rohanadhav78@gmail.com">📧 Email</a> &nbsp;&nbsp;
-<a href="https://github.com/Rohan-Adhav">🐱 GitHub</a> &nbsp;&nbsp;
-<a href="https://rohan-adhav-portfolio.vercel.app/">💻 Portfolio</a>
+<a href="https://www.linkedin.com/in/rohan-adhav-s15111115"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=rohanadhav78@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<a href="https://github.com/Rohan-Adhav"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://rohan-adhav-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
 ---
