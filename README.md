@@ -1,4 +1,4 @@
-# Hi there, I'm Rohan Adhav
+# Hi there 👋, I'm Rohan Adhav
 
 I’m a **Computer Engineering graduate (CGPA: 8.35)** with a passion for building **full-stack applications, AI projects, and data-driven solutions**.  
 Over the years, I’ve created projects ranging from **AI-powered apps**, **blockchain platforms**, **data dashboards**, to **interactive web apps**. I love crafting code that’s **clean, efficient, and solves real-world problems**.
@@ -27,7 +27,7 @@ An **AI-powered recipe generator** that suggests meals based on available ingred
 
 ### 2️⃣ [Meme Generator](https://meme-generator-rohan.vercel.app/)  
 GitHub: [memeGenerator](https://github.com/Rohan-Adhav/memeGenerator.git)  
-Generate and share memes instantly.  
+Generate and share memes instantly. A fun project combining creativity with coding.  
 **Tech Stack:** React.js, HTML, CSS, JavaScript  
 **Highlights:** Interactive UI, meme download functionality, responsive design.
 
@@ -35,7 +35,7 @@ Generate and share memes instantly.
 
 ### 3️⃣ [Travel Journal](https://travel-journal-rohan.vercel.app/)  
 GitHub: [Travel_journal](https://github.com/Rohan-Adhav/Travel_journal.git)  
-A platform to **plan, document, and share travel experiences**.  
+A platform to **plan, document, and share travel experiences** with friends and family.  
 **Tech Stack:** React.js, Firebase, Node.js  
 **Highlights:** User authentication, real-time data sync, responsive design.
 
@@ -59,15 +59,17 @@ My **personal portfolio** showcasing projects, skills, and achievements.
 
 ### 6️⃣ [PDF Merger & Processor](https://pdf-merger-gl7y.onrender.com/)  
 GitHub: [PDF_MERGER](https://github.com/Rohan-Adhav/PDF_MERGER)  
-Automates **PDF merging, parsing, and conversion**.  
+Automates **PDF merging, parsing, and conversion**. Perfect for document-heavy workflows.  
 **Tech Stack:** Node.js, Express.js, HTML/CSS  
+**Highlights:** File handling automation, multi-format support, easy-to-use interface.
 
 ---
 
 ### 7️⃣ [TO-DO List](https://to-do-list-rohan.vercel.app/)  
 GitHub: [TO_DO_LIST](https://github.com/Rohan-Adhav/TO_DO_LIST.git)  
-A simple yet functional **task management app**.  
+A simple yet functional **task management app** to stay organized.  
 **Tech Stack:** React.js, JavaScript, CSS  
+**Highlights:** Add/remove tasks, responsive design, minimalistic UI.
 
 ---
 
@@ -75,31 +77,37 @@ A simple yet functional **task management app**.
 GitHub: [wedding_hall](https://github.com/Rohan-Adhav/wedding_hall.git)  
 An **online booking platform** for wedding venues.  
 **Tech Stack:** React.js, Firebase  
+**Highlights:** Booking system, real-time data sync, interactive interface.
 
 ---
 
 ### 9️⃣ [Frontend Projects Collection](https://github.com/Rohan-Adhav/Frontend_projects.git)  
 A collection of **small-to-medium frontend projects** to demonstrate UI/UX skills.  
+**Tech Stack:** React.js, HTML, CSS, JavaScript
 
 ---
 
 ### 🔟 [Python Projects](https://github.com/Rohan-Adhav/python.git)  
-A compilation of **Python scripts & automation projects**.  
+A compilation of **Python scripts & automation projects**, showcasing my problem-solving and algorithmic skills.
 
 ---
 
 ### 1️⃣1️⃣ [Data Analytics Projects](https://github.com/Rohan-Adhav/Data_analytics_projects.git)  
-Projects that **analyze, visualize, and interpret data**.  
+Projects that **analyze, visualize, and interpret data** for actionable insights.  
+**Tech Stack:** Power BI, Python, Excel
 
 ---
 
 ### 1️⃣2️⃣ [Age & Gender Detection](https://github.com/Rohan-Adhav/age-and-gender-detection.git)  
 AI model to detect **age and gender from images**.  
+**Tech Stack:** Python, OpenCV, Machine Learning
 
 ---
 
 ### 1️⃣3️⃣ [Fine-Tuning Transformer for Sentiment Analysis](https://github.com/Rohan-Adhav/Fine-Tuning-a-Pretrained-Transformer-for-sentiment-analysis.git)  
-Fine-tuned a **pre-trained transformer** for sentiment classification.  
+Fine-tuned a **pre-trained transformer** for sentiment classification tasks.  
+**Tech Stack:** Python, Hugging Face Transformers, NLP  
+**Highlights:** AI/ML project, deep learning, real-world text analysis.
 
 ---
 
@@ -112,33 +120,18 @@ Fine-tuned a **pre-trained transformer** for sentiment classification.
 
 ---
 
+
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/rohan-adhav-s15111115">
-  <img src="https://skillicons.dev/icons?i=linkedin" class="icon-hover" />
-</a>
-<a href="mailto:rohanadhav78@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" class="icon-hover" />
-</a>
-<a href="https://github.com/Rohan-Adhav">
-  <img src="https://skillicons.dev/icons?i=github" class="icon-hover" />
-</a>
-<a href="https://rohan-adhav-portfolio.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=vercel" class="icon-hover" />
-</a>
+<a href="https://www.linkedin.com/in/rohan-adhav-s15111115"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=rohanadhav78@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<a href="https://github.com/Rohan-Adhav"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://rohan-adhav-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
 
-<style>
-.icon-hover {
-  transition: transform 0.3s;
-}
-.icon-hover:hover {
-  transform: rotateY(180deg);
-}
-</style>
 
 ---
 
 <p align="center">
-<i>“I write code not just to build apps, but to create solutions that matter.”</i>
+<i>✨ “I write code not just to build apps, but to create solutions that matter.” ✨</i>
 </p>
