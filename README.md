@@ -1,10 +1,15 @@
 # Hi there 👋, I'm Rohan Adhav
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&width=600&lines=Turning+ideas+into+real-world+solutions;Building+beautiful+and+scalable+apps;Data-driven+decision+making;Always+learning+%26+exploring+new+tech" />
+</p>
+
 I’m a **Computer Engineering graduate (CGPA: 8.35)** with a passion for building **full-stack applications, AI projects, and data-driven solutions**.  
 Over the years, I’ve created projects ranging from **AI-powered apps**, **blockchain platforms**, **data dashboards**, to **interactive web apps**. I love crafting code that’s **clean, efficient, and solves real-world problems**.
 
 📍 Based in Nashik, India | 🌎 Open to remote opportunities  
 💡 Always learning, experimenting, and pushing the boundaries of technology
+
 
 ---
 
