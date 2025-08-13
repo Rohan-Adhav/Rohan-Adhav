@@ -123,7 +123,9 @@ Fine-tuned a **pre-trained transformer** for sentiment classification tasks.
 ## 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/rohan-adhav-s15111115"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:rohanadhav78@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:rohanadhav78@gmail.com" target="_self">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
 <a href="https://github.com/Rohan-Adhav"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://rohan-adhav-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 </p>
