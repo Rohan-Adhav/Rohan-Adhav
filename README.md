@@ -20,9 +20,6 @@ Over the years, I’ve created projects ranging from **AI-powered apps**, **bloc
 1. **Flavorly AI**  
    GitHub: [flavorly.AI](https://github.com/Rohan-Adhav/flavorly.AI.git)  
    🔗 Live Demo: [Visit Site](https://flavorly-ai-rohan.vercel.app/)  
-   <p align="justify">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00AAFF&center=true&width=600&lines=AI-powered+recipe+generator+with+prompt+engineering" />
-   </p>
    An AI-powered recipe generator that suggests meals based on available ingredients using OpenAI API.  
    **Tech Stack:** React.js, OpenAI API, Tailwind CSS  
    **Highlights:** Modern UI/UX, fast response, prompt engineering.
@@ -30,9 +27,6 @@ Over the years, I’ve created projects ranging from **AI-powered apps**, **bloc
 2. **Meme Generator**  
    GitHub: [memeGenerator](https://github.com/Rohan-Adhav/memeGenerator.git)  
    🔗 Live Demo: [Visit Site](https://meme-generator-rohan.vercel.app/)  
-   <p align="justify">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFAA00&center=true&width=600&lines=Interactive+meme+creation+and+sharing" />
-   </p>
    Generate and share memes instantly. A fun project combining creativity with coding.  
    **Tech Stack:** React.js, HTML, CSS, JavaScript  
    **Highlights:** Interactive UI, meme download functionality, responsive design.
