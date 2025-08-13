@@ -135,9 +135,9 @@ Fine-tuned a **pre-trained transformer** for sentiment classification tasks.
     <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:rohanadhav78@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=rohanadhav78@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40"/>
+</a>
 </p>
 
 
