@@ -150,21 +150,12 @@ Collection of **Java-based projects** covering OOP, data structures, and algorit
 
 ## 📊 Skills Dashboard
 
+Here’s a visual breakdown of my core technologies and expertise:
+
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'doughnut',
-    data:{
-      labels:['Java','C#','Python','React','Node.js','HTML/CSS/JS','Tailwind','Bootstrap','SQL','MongoDB','Firebase','Git','Power BI','Python Libraries','Excel'],
-      datasets:[{
-        data:[95,90,92,93,90,94,91,90,88,87,85,92,89,90,88],
-        backgroundColor:['#f7df1e','#007396','#3776ab','#61dafb','#68a063','#e34c26','#38bdf8','#563d7c','#4479a1','#47a248','#ffca28','#f05032','#4caf50','#306998','#207245']
-      }]
-    },
-    options:{
-      plugins:{legend:{position:'right'}}
-    }
-  }" alt="Skills Dashboard" width="700"/>
+  <img src="https://bing.com/th/id/BCEI.4a281bb5-ba66-4d27-beae-727089edadb3.png" alt="Skills Pie Chart" width="700"/>
 </p>
+
 
 
 
