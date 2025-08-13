@@ -101,7 +101,7 @@ A simple and effective **task management app** to help users stay organized and 
 
 ---
 
-**8. **8. Wedding Hall Booking**  
+**8. Wedding Hall Booking**  
 - **Live:** [to-do-list-rohan.vercel.app](https://to-do-list-rohan.vercel.app/)  
 - **GitHub:** [wedding_hall](https://github.com/Rohan-Adhav/wedding_hall.git)  
 An online platform for **booking wedding venues**, designed to simplify event planning and reservations.  
@@ -118,7 +118,7 @@ Collection of **small-to-medium frontend projects** demonstrating UI/UX skills.
 
 ---
 
-**10.**10. Python Projects**  
+**10. Python Projects**  
 - **GitHub:** [python](https://github.com/Rohan-Adhav/python.git)  
 A compilation of **Python scripts and automation projects**, showcasing problem-solving, AI integration, and algorithmic thinking.  
 **Tech Stack:** Python, OpenAI API  
