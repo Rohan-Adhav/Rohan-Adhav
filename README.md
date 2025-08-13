@@ -56,9 +56,10 @@ Generate and share memes instantly.
 **3. Travel Journal**  
 - **Live:** [travel-journal-rohan.vercel.app](https://travel-journal-rohan.vercel.app/)  
 - **GitHub:** [Travel_journal](https://github.com/Rohan-Adhav/Travel_journal.git)  
-Plan, document, and share travel experiences.  
-**Tech Stack:** React.js, Firebase, Node.js  
-**Highlights:** User authentication, real-time data sync, responsive design.
+A dynamic platform to **plan, document, and share travel experiences**, enhanced with **AI-generated memes** for fun storytelling.  
+**Tech Stack:** React.js, HTML, CSS, JavaScript, Memes API  
+**Highlights:** Interactive UI, AI integration, responsive design, travel memory curation.
+
 
 ---
 
