@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Rohan Adhav
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&width=600&lines=Turning+ideas+into+real-world+solutions;Building+beautiful+and+scalable+apps;Data-driven+decision+making;Always+learning+%26+exploring+new+tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007bff&center=true&width=600&lines=Turning+ideas+into+real-world+solutions;Building+beautiful+and+scalable+apps;Data-driven+decision+making;Always+learning+%26+exploring+new+tech" />
 </p>
 
 I’m a **Computer Engineering graduate (CGPA: 8.35)** with a passion for building **full-stack applications, AI projects, and data-driven solutions**.  
