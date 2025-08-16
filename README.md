@@ -164,6 +164,7 @@ A fun and interactive game similar to **Hangman**, where the mission is to **sav
 **Tech Stack:** React.js, HTML, CSS, JavaScript, clsx, confetti.js  
 **Highlights:** Interactive gameplay, engaging UI, use of confetti for fun effects, built with modern frontend tools.
 
+---
 
 ## 📊 Skills Dashboard
 
