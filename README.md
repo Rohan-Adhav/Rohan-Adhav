@@ -33,138 +33,186 @@ Over the years, I’ve created projects ranging from **AI-powered apps**, **bloc
 
 ---
 
-## 🚀 Projects Portfolio
+<!-- 🚀 Projects Portfolio -->
+<section id="projects" class="py-12 bg-gray-100">
+  <div class="max-w-7xl mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-10 text-blue-600">🚀 Projects Portfolio</h2>
 
-**1. Flavorly AI**  
-- **Live:** [flavorly-ai-rohan.vercel.app](https://flavorly-ai-rohan.vercel.app/)  
-- **GitHub:** [Flavorly.AI](https://github.com/Rohan-Adhav/flavorly.AI.git)  
-An **AI-powered recipe generator** that suggests meals based on available ingredients using the **Hugging Face API**.  
-**Tech Stack:** React.js, Vite, Hugging Face API, HTML, CSS, JavaScript  
-**Highlights:** Fast response, modern UI/UX, prompt engineering, AI integration.
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
----
+      <!-- Project 1 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Flavorly AI 🍲</h3>
+        <p class="mt-2 text-gray-600">An <b>AI-powered recipe generator</b> that suggests meals based on available ingredients using the <b>Hugging Face API</b>.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> React.js, Vite, Hugging Face API, HTML, CSS, JavaScript</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Fast response, modern UI/UX, prompt engineering, AI integration.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/flavorly.AI.git" class="text-blue-500 hover:underline">GitHub</a>
+          <a href="https://flavorly-ai-rohan.vercel.app/" class="text-green-500 hover:underline">Live Demo</a>
+        </div>
+      </div>
 
-**2. Meme Generator**  
-- **Live:** [meme-generator-rohan.vercel.app](https://meme-generator-rohan.vercel.app/)  
-- **GitHub:** [memeGenerator](https://github.com/Rohan-Adhav/memeGenerator.git)  
-Generate and share memes instantly.  
-**Tech Stack:** React.js, HTML, CSS, JavaScript  
-**Highlights:** Interactive UI, meme download functionality, responsive design.
+      <!-- Project 2 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Meme Generator 😂</h3>
+        <p class="mt-2 text-gray-600">Generate and share memes instantly.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> React.js, HTML, CSS, JavaScript</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Interactive UI, meme download functionality, responsive design.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/memeGenerator.git" class="text-blue-500 hover:underline">GitHub</a>
+          <a href="https://meme-generator-rohan.vercel.app/" class="text-green-500 hover:underline">Live Demo</a>
+        </div>
+      </div>
 
----
+      <!-- Project 3 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Travel Journal ✈️</h3>
+        <p class="mt-2 text-gray-600">A dynamic platform to <b>plan, document, and share travel experiences</b>, enhanced with <b>AI-generated memes</b>.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> React.js, HTML, CSS, JavaScript, Memes API</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Interactive UI, AI integration, responsive design, travel memory curation.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/Travel_journal.git" class="text-blue-500 hover:underline">GitHub</a>
+          <a href="https://travel-journal-rohan.vercel.app/" class="text-green-500 hover:underline">Live Demo</a>
+        </div>
+      </div>
 
-**3. Travel Journal**  
-- **Live:** [travel-journal-rohan.vercel.app](https://travel-journal-rohan.vercel.app/)  
-- **GitHub:** [Travel_journal](https://github.com/Rohan-Adhav/Travel_journal.git)  
-A dynamic platform to **plan, document, and share travel experiences**, enhanced with **AI-generated memes** for fun storytelling.  
-**Tech Stack:** React.js, HTML, CSS, JavaScript, Memes API  
-**Highlights:** Interactive UI, AI integration, responsive design, travel memory curation.
+      <!-- Project 4 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Tenzzies Game 🎲</h3>
+        <p class="mt-2 text-gray-600">A fun <b>dice game</b> to practice React concepts and state management.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> React.js, CSS3, JavaScript</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Dynamic UI, game logic, interactive animations.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/Tenzzies.git" class="text-blue-500 hover:underline">GitHub</a>
+          <a href="https://tenzzies-rohan.vercel.app/" class="text-green-500 hover:underline">Live Demo</a>
+        </div>
+      </div>
 
+      <!-- Project 5 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Portfolio Website 🌐</h3>
+        <p class="mt-2 text-gray-600">A personal portfolio showcasing <b>projects, skills, and achievements</b> with a clean and responsive layout.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Minimalist design, smooth navigation, mobile-friendly interface.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/portfolio.git" class="text-blue-500 hover:underline">GitHub</a>
+          <a href="https://rohan-adhav-portfolio.vercel.app/" class="text-green-500 hover:underline">Live Demo</a>
+        </div>
+      </div>
 
----
+      <!-- Project 6 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">PDF Merger & Processor 📑</h3>
+        <p class="mt-2 text-gray-600">Automates <b>PDF merging, parsing, and conversion</b>.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> Node.js, Express.js, HTML/CSS</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> File handling automation, multi-format support, easy-to-use interface.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/PDF_MERGER" class="text-blue-500 hover:underline">GitHub</a>
+          <a href="https://pdf-merger-gl7y.onrender.com" class="text-green-500 hover:underline">Live Demo</a>
+        </div>
+      </div>
 
-**4. Tenzzies Game**  
-- **Live:** [tenzzies-rohan.vercel.app](https://tenzzies-rohan.vercel.app/)  
-- **GitHub:** [Tenzzies](https://github.com/Rohan-Adhav/Tenzzies.git)  
-A fun **dice game** to practice React concepts and state management.  
-**Tech Stack:** React.js, CSS3, JavaScript  
-**Highlights:** Dynamic UI, game logic, interactive animations.
+      <!-- Project 7 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">TO-DO List ✅</h3>
+        <p class="mt-2 text-gray-600">A simple and effective <b>task management app</b> to help users stay organized and productive.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> HTML, CSS, JavaScript, Bootstrap</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Add/remove tasks, responsive design, clean UI with Bootstrap styling.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/TO_DO_LIST.git" class="text-blue-500 hover:underline">GitHub</a>
+          <a href="https://to-do-list-rohan.vercel.app/" class="text-green-500 hover:underline">Live Demo</a>
+        </div>
+      </div>
 
----
+      <!-- Project 8 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Wedding Hall Booking 💒</h3>
+        <p class="mt-2 text-gray-600">An online platform for <b>booking wedding venues</b>, designed to simplify event planning and reservations.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> HTML, CSS, JavaScript, Bootstrap</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Booking system, responsive layout, user-friendly interface.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/wedding_hall.git" class="text-blue-500 hover:underline">GitHub</a>
+          <a href="https://to-do-list-rohan.vercel.app/" class="text-green-500 hover:underline">Live Demo</a>
+        </div>
+      </div>
 
-**5. Portfolio Website**  
-- **Live:** [rohan-adhav-portfolio.vercel.app](https://rohan-adhav-portfolio.vercel.app/)  
-- **GitHub:** [portfolio](https://github.com/Rohan-Adhav/portfolio.git)  
-A personal portfolio showcasing **projects, skills, and achievements** with a clean and responsive layout.  
-**Tech Stack:** HTML, CSS, JavaScript  
-**Highlights:** Minimalist design, smooth navigation, mobile-friendly interface.
+      <!-- Project 9 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Frontend Projects Collection 💻</h3>
+        <p class="mt-2 text-gray-600">Collection of <b>small-to-medium frontend projects</b> demonstrating UI/UX skills.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> React.js, HTML, CSS, JavaScript</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/Frontend_projects.git" class="text-blue-500 hover:underline">GitHub</a>
+        </div>
+      </div>
 
+      <!-- Project 10 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Python Projects 🐍</h3>
+        <p class="mt-2 text-gray-600">A compilation of <b>Python scripts and automation projects</b>, showcasing problem-solving, AI integration, and algorithmic thinking.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> Python, OpenAI API</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Intelligent automation, API-driven solutions, clean and modular code.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/python.git" class="text-blue-500 hover:underline">GitHub</a>
+        </div>
+      </div>
 
----
+      <!-- Project 11 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Data Analytics Projects 📊</h3>
+        <p class="mt-2 text-gray-600">Projects that <b>analyze, visualize, and interpret data</b> to uncover actionable insights.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> Jupyter Notebook, Google Colab, Seaborn, NumPy, Pandas, Matplotlib, Power BI, Excel</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Data cleaning, exploratory analysis, dashboard creation, real-world datasets.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/Data_analytics_projects.git" class="text-blue-500 hover:underline">GitHub</a>
+        </div>
+      </div>
 
-**6. PDF Merger & Processor**  
-- **Live:** [pdf-merger-gl7y.onrender.com](https://pdf-merger-gl7y.onrender.com/)  
-- **GitHub:** [PDF_MERGER](https://github.com/Rohan-Adhav/PDF_MERGER)  
-Automates **PDF merging, parsing, and conversion**.  
-**Tech Stack:** Node.js, Express.js, HTML/CSS  
-**Highlights:** File handling automation, multi-format support, easy-to-use interface.
+      <!-- Project 12 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Age & Gender Detection 👤</h3>
+        <p class="mt-2 text-gray-600">AI model to detect <b>age and gender from images</b>.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> Python, OpenCV, Machine Learning</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/age-and-gender-detection.git" class="text-blue-500 hover:underline">GitHub</a>
+        </div>
+      </div>
 
----
+      <!-- Project 13 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Fine-Tuning Transformer 🔍</h3>
+        <p class="mt-2 text-gray-600">Fine-tuned <b>pre-trained transformer</b> for sentiment classification.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> Python, Hugging Face Transformers, NLP</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> AI/ML, deep learning, real-world text analysis.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/Fine-Tuning-a-Pretrained-Transformer-for-sentiment-analysis.git" class="text-blue-500 hover:underline">GitHub</a>
+        </div>
+      </div>
 
-**7. TO-DO List**  
-- **Live:** [to-do-list-rohan.vercel.app](https://to-do-list-rohan.vercel.app/)  
-- **GitHub:** [TO_DO_LIST](https://github.com/Rohan-Adhav/TO_DO_LIST.git)  
-A simple and effective **task management app** to help users stay organized and productive.  
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-**Highlights:** Add/remove tasks, responsive design, clean UI with Bootstrap styling.
+      <!-- Project 14 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Java Projects ☕</h3>
+        <p class="mt-2 text-gray-600">Collection of <b>Java-based projects</b> covering OOP, data structures, and algorithms.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/java_projecs.git" class="text-blue-500 hover:underline">GitHub</a>
+        </div>
+      </div>
 
+      <!-- Project 15 -->
+      <div class="bg-white rounded-2xl shadow-lg p-6 hover:shadow-2xl transition">
+        <h3 class="text-xl font-semibold">Endgame 🎮</h3>
+        <p class="mt-2 text-gray-600">A fun and interactive game similar to <b>Hangman</b>, where the mission is to <b>save Assembly language</b> by guessing words.</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Tech Stack:</b> React.js, HTML, CSS, JavaScript, clsx, confetti.js</p>
+        <p class="mt-2 text-sm text-gray-500"><b>Highlights:</b> Interactive gameplay, engaging UI, fun confetti effects, built with modern frontend tools.</p>
+        <div class="mt-4 flex justify-between">
+          <a href="https://github.com/Rohan-Adhav/Endgame.git" class="text-blue-500 hover:underline">GitHub</a>
+          <a href="https://endgame-rohan.vercel.app/" class="text-green-500 hover:underline">Live Demo</a>
+        </div>
+      </div>
 
----
-
-**8. Wedding Hall Booking**  
-- **Live:** [to-do-list-rohan.vercel.app](https://to-do-list-rohan.vercel.app/)  
-- **GitHub:** [wedding_hall](https://github.com/Rohan-Adhav/wedding_hall.git)  
-An online platform for **booking wedding venues**, designed to simplify event planning and reservations.  
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-**Highlights:** Booking system, responsive layout, user-friendly interface.
-
-
----
-
-**9. Frontend Projects Collection**  
-- **GitHub:** [Frontend_projects](https://github.com/Rohan-Adhav/Frontend_projects.git)  
-Collection of **small-to-medium frontend projects** demonstrating UI/UX skills.  
-**Tech Stack:** React.js, HTML, CSS, JavaScript
-
----
-
-**10. Python Projects**  
-- **GitHub:** [python](https://github.com/Rohan-Adhav/python.git)  
-A compilation of **Python scripts and automation projects**, showcasing problem-solving, AI integration, and algorithmic thinking.  
-**Tech Stack:** Python, OpenAI API  
-**Highlights:** Intelligent automation, API-driven solutions, clean and modular code.
-
-
----
-
-**11. Data Analytics Projects**  
-- **GitHub:** [Data_analytics_projects](https://github.com/Rohan-Adhav/Data_analytics_projects.git)  
-Projects that **analyze, visualize, and interpret data** to uncover actionable insights using both Python and business intelligence tools.  
-**Tech Stack:** Jupyter Notebook, Google Colab, Seaborn, NumPy, Pandas, Matplotlib, Power BI, Excel  
-**Highlights:** Data cleaning, exploratory analysis, dashboard creation, insightful visualizations, real-world datasets.
-
-
----
-
-**12. Age & Gender Detection**  
-- **GitHub:** [age-and-gender-detection](https://github.com/Rohan-Adhav/age-and-gender-detection.git)  
-AI model to detect **age and gender from images**.  
-**Tech Stack:** Python, OpenCV, Machine Learning
-
----
-
-**13. Fine-Tuning Transformer for Sentiment Analysis**  
-- **GitHub:** [Fine-Tuning-a-Pretrained-Transformer-for-sentiment-analysis](https://github.com/Rohan-Adhav/Fine-Tuning-a-Pretrained-Transformer-for-sentiment-analysis.git)  
-Fine-tuned **pre-trained transformer** for sentiment classification.  
-**Tech Stack:** Python, Hugging Face Transformers, NLP  
-**Highlights:** AI/ML, deep learning, real-world text analysis.
-
----
-
-**14. Java Projects**  
-- **GitHub:** [java_projecs](https://github.com/Rohan-Adhav/java_projecs.git)  
-Collection of **Java-based projects** covering OOP, data structures, and algorithms.  
-
----
-
-**15. Endgame**  
-- **Live:** [endgame-rohan.vercel.app](https://endgame-rohan.vercel.app/)  
-- **GitHub:** [Endgame](https://github.com/Rohan-Adhav/Endgame.git)  
-A fun and interactive game similar to **Hangman**, where the mission is to **save Assembly language** by guessing the correct words.  
-**Tech Stack:** React.js, HTML, CSS, JavaScript, clsx, confetti.js  
-**Highlights:** Interactive gameplay, engaging UI, use of confetti for fun effects, built with modern frontend tools.
-
----
+    </div>
+  </div>
+</section>
 
 ## 📊 Skills Dashboard
 
