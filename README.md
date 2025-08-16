@@ -157,6 +157,14 @@ Collection of **Java-based projects** covering OOP, data structures, and algorit
 
 ---
 
+**15. Endgame**  
+- **Live:** [endgame-rohan.vercel.app](https://endgame-rohan.vercel.app/)  
+- **GitHub:** [Endgame](https://github.com/Rohan-Adhav/Endgame.git)  
+A fun and interactive game similar to **Hangman**, where the mission is to **save Assembly language** by guessing the correct words.  
+**Tech Stack:** React.js, HTML, CSS, JavaScript, clsx, confetti.js  
+**Highlights:** Interactive gameplay, engaging UI, use of confetti for fun effects, built with modern frontend tools.
+
+
 ## 📊 Skills Dashboard
 
 Here’s a visual breakdown of my core technologies and expertise:
