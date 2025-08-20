@@ -168,7 +168,12 @@ A fun and interactive game similar to **Hangman**, where the mission is to **sav
 
 ---
 
-
+**16. Portfolio**  
+- **Live:** [portfolio-rohan.vercel.app](https://rohan-portfolio-flame.vercel.app/)  
+- **GitHub:** [portfolio](https://github.com/Rohan-Adhav/Rohan_Portfolio.git)  
+My personal portfolio built on responsive principle
+**Tech Stack:** React.js, HTML, CSS, JavaScript, router , useState , react-countuo , reactTyped,framer , hashlink
+**Highlights:** Interactive , engaging UI, use of framer and countup for fun effects, built with modern frontend tools.
 
 ## 📊 Skills Dashboard
 
