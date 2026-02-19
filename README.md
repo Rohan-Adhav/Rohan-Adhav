@@ -86,3 +86,12 @@ Portfolio: https://rohan-adhav-portfolio-flame.vercel.app
 Email: rohanadhav78@gmail.com  
 
 ---
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohan-Adhav&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Adhav&layout=compact&hide_border=true)
+
