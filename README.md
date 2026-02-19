@@ -4,7 +4,7 @@ I’m a **Computer Engineering graduate (CGPA: 8.35)** passionate about building
 I focus on writing **clean, efficient, production-ready code** that solves real-world problems.
 
 📍 Nashik, India | 🌎 Open to Remote Opportunities  
-💡 Full Stack Developer | MERN | Java | C++ | Python | AI & Blockchain  
+💡 Full Stack Developer | MERN | Java | C++ | Python | AI  
 
 ---
 
@@ -18,10 +18,11 @@ I focus on writing **clean, efficient, production-ready code** that solves real-
 
 ## 🚀 Selected Projects
 
-### 1️⃣ Blockchain Crowdfunding Platform  
-- **GitHub:** https://github.com/Rohan-Adhav/Crowdfunding-Platform  
-Decentralized crowdfunding platform built with **React.js and Ethereum (Ganache)** enabling secure and transparent transactions.  
-**Tech:** React.js, Blockchain, Ganache, Firebase  
+### 1️⃣ Endgame – Interactive React Game  
+- **Live:** https://endgame-rohan.vercel.app  
+- **GitHub:** https://github.com/Rohan-Adhav/Endgame  
+A fun and interactive game similar to **Hangman**, where the mission is to **save Assembly language** by guessing the correct words.  
+**Tech:** React.js, HTML, CSS, JavaScript, clsx, confetti.js  
 
 ---
 
@@ -60,7 +61,6 @@ Data analysis, visualization, and dashboard creation using Python and BI tools.
 - **GitHub:** https://github.com/Rohan-Adhav/Spooky_tales  
 A full-stack web application for publishing and exploring interactive stories with server-side functionality and dynamic content handling.  
 **Tech:** HTML, CSS, JavaScript, Node.js, Express  
- 
 
 ---
 
@@ -82,14 +82,5 @@ Modern responsive portfolio showcasing projects and skills.
 ## 🌐 Connect With Me
 
 LinkedIn: https://linkedin.com/in/rohan-adhav-fullstack  
-Portfolio: https://rohan-adhav-portfolio-flame.vercel.app  
+Portfolio: https://rohan-adhav-portfolio.vercel.app  
 Email: rohanadhav78@gmail.com  
-
----
-
----
-
----
-
-
-
