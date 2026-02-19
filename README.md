@@ -89,8 +89,17 @@ Email: rohanadhav78@gmail.com
 
 ---
 
+---
+
 ## 📈 GitHub Activity
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-Adhav&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Adhav&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Adhav&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
+</p>
+
 
 
