@@ -1,73 +1,83 @@
-Hi there 👋, I'm Rohan Adhav
+# Hi , I'm Rohan Adhav
 
-I’m a **Computer Engineering graduate (CGPA: 8.35)** passionate about building **scalable full-stack applications, AI systems, and data-driven solutions**.  
-I focus on writing **clean, efficient, production-ready code** that solves real-world problems.
+I’m a **Computer Engineering graduate (CGPA: 8.35)** with a passion for building **full-stack applications, AI projects, and data-driven solutions**.  
+Over the years, I’ve created projects ranging from **AI-powered apps**, **blockchain platforms**, **data dashboards**, to **interactive web apps**. I love crafting code that’s **clean, efficient, and solves real-world problems**.
 
-📍 Nashik, India | 🌎 Open to Remote Opportunities  
-💡 Full Stack Developer | MERN | Java | C++ | Python | AI
-
----
-
-## 🛠 Tech Stack
+📍 Based in Nashik, India | 🌎 Open to remote opportunities  
+💡 Always learning, experimenting, and pushing the boundaries of technology
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,java,cs,html,css,js,bootstrap,tailwind,mongodb,mysql,firebase,git" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007bff&center=true&width=600&lines=Turning+ideas+into+real-world+solutions;Building+beautiful+and+scalable+apps;Data-driven+decision+making+with+AI;Always+learning+%26+exploring+new+tech" alt="typing animation"/>
 </p>
 
 ---
 
-## 🚀 Selected Projects
-
-### 1️⃣ Endgame – Interactive React Game
-- **Live:** https://endgame-rohan.vercel.app  
-- **GitHub:** https://github.com/Rohan-Adhav/Endgame  
-A fun and interactive game similar to **Hangman**, where the mission is to **save Assembly language** by guessing the correct words.  
-**Tech:** React.js, HTML, CSS, JavaScript, clsx, confetti.js
-
----
-
-### 2️⃣ Flavorly AI
-- **Live:** https://flavorly-ai-rohan.vercel.app  
-- **GitHub:** https://github.com/Rohan-Adhav/flavorly.AI  
-AI-powered recipe generator using **Hugging Face API** with fast response and modern UI.  
-**Tech:** React.js, Vite, Hugging Face API
-
----
-
-### 3️⃣ AI Chatbot (Prompt Engineering Project)
-- **GitHub:** https://github.com/Rohan-Adhav/python  
-Context-aware chatbot built using **OpenAI API and Python**, improving response accuracy by 15%.  
-**Tech:** Python, OpenAI API
+## 🛠 My Tech Toolbox
+<p align="center">
+<a href="https://github.com/Rohan-Adhav/flavorly.AI.git"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+<a href="https://github.com/Rohan-Adhav/PDF_MERGER"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+<a href="https://github.com/Rohan-Adhav/python.git"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+<a href="https://github.com/Rohan-Adhav/java_projecs.git"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+<a href="https://github.com/Rohan-Adhav/portfolio.git"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
+<a href="https://github.com/Rohan-Adhav/Frontend_projects.git"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+<a href="https://github.com/Rohan-Adhav/Frontend_projects.git"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+<a href="https://github.com/Rohan-Adhav/portfolio.git"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+<a href="https://github.com/Rohan-Adhav/PDF_MERGER"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+<a href="https://github.com/Rohan-Adhav/Frontend_projects.git"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
+<a href="https://github.com/Rohan-Adhav/CrowdFunding-Blockchain.git"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<a href="https://github.com/Rohan-Adhav/Data_analytics_projects.git"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+<a href="https://github.com/Rohan-Adhav/portfolio.git"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+<a href="https://github.com/Rohan-Adhav/portfolio.git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+</p>
 
 ---
 
-### 4️⃣ PDF Merger & Processor
-- **Live:** https://pdf-merger-gl7y.onrender.com  
-- **GitHub:** https://github.com/Rohan-Adhav/PDF_MERGER  
-Backend-focused tool for PDF merging and document processing.  
-**Tech:** Node.js, Express.js
+## 🚀 Projects Portfolio
+
+**1. Flavorly AI**  
+- **Live:** [flavorly-ai-rohan.vercel.app](https://flavorly-ai-rohan.vercel.app/)  
+- **GitHub:** [Flavorly.AI](https://github.com/Rohan-Adhav/flavorly.AI.git)  
+An **AI-powered recipe generator** using the **Hugging Face API**.  
+**Tech Stack:** React.js, Vite, Hugging Face API, HTML, CSS, JavaScript  
 
 ---
 
-### 5️⃣ Data Analytics Projects
-- **GitHub:** https://github.com/Rohan-Adhav/Data_analytics_projects  
-Data analysis, visualization, and dashboard creation using Python and BI tools.  
-**Tech:** Pandas, NumPy, Matplotlib, Power BI, Excel
+**2. Endgame**  
+- **Live:** [endgame-rohan.vercel.app](https://endgame-rohan.vercel.app/)  
+- **GitHub:** [Endgame](https://github.com/Rohan-Adhav/Endgame.git)  
+Interactive game similar to **Hangman**, with **Assembly language guessing**.  
+**Tech Stack:** React.js, HTML, CSS, JavaScript, clsx, confetti.js  
 
 ---
 
-### 6️⃣ Spooky Tales – Full Stack Story Platform
-- **Live:** https://spooky-tales.onrender.com  
-- **GitHub:** https://github.com/Rohan-Adhav/Spooky_tales  
-A full-stack web application for publishing and exploring interactive stories with server-side functionality and dynamic content handling.  
-**Tech:** HTML, CSS, JavaScript, Node.js, Express
+**3. PDF Merger & Processor**  
+- **Live:** [pdf-merger-gl7y.onrender.com](https://pdf-merger-gl7y.onrender.com/)  
+- **GitHub:** [PDF_MERGER](https://github.com/Rohan-Adhav/PDF_MERGER)  
+Automates **PDF merging, parsing, and conversion**.  
+**Tech Stack:** Node.js, Express.js, HTML/CSS  
 
 ---
 
-### 7️⃣ Personal Portfolio (React)
-- **Live:** https://rohan-adhav-portfolio-flame.vercel.app  
-Modern responsive portfolio showcasing projects and skills.  
-**Tech:** React.js, JavaScript
+**4. Data Analytics Projects**  
+- **GitHub:** [Data_analytics_projects](https://github.com/Rohan-Adhav/Data_analytics_projects.git)  
+Projects for **data analysis, visualization, and insights**.  
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Power BI, Excel  
+
+---
+
+**5. Spooky Tales**  
+- **Live:** [spooky-tales.onrender.com](https://spooky-tales.onrender.com)  
+- **GitHub:** [Spooky_tales](https://github.com/Rohan-Adhav/Spooky_tales)  
+Full-stack platform for **publishing and exploring interactive stories**.  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express  
+
+---
+
+**6. Personal Portfolio (React)**  
+- **Live:** [rohan-adhav-portfolio.vercel.app](https://rohan-adhav-portfolio.vercel.app/)  
+- **GitHub:** [portfolio](https://github.com/Rohan-Adhav/Rohan_Portfolio.git)  
+Showcases **projects, skills, and achievements** with a responsive layout.  
+**Tech Stack:** React.js, HTML, CSS, JavaScript  
 
 ---
 
@@ -79,14 +89,16 @@ Modern responsive portfolio showcasing projects and skills.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/rohan-adhav-s15111115"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=rohanadhav78@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/Rohan-Adhav"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://rohan-adhav-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+</p>
 
-Feel free to reach out or connect via any of the following platforms:
+---
 
-- 💼 **LinkedIn:** [https://linkedin.com/in/rohan-adhav-fullstack](https://linkedin.com/in/rohan-adhav-fullstack)  
-- 🌐 **Portfolio:** [https://rohan-adhav-portfolio.vercel.app](https://rohan-adhav-portfolio.vercel.app)  
-- 📧 **Email:** rohanadhav78@gmail.com  
-
-I’m always open to **collaboration, networking, and project discussions**. Let's connect!
-!
-
+<p align="center">
+<i>“I write code not just to build apps, but to create solutions that matter.”</i>
+</p>
