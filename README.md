@@ -6,6 +6,8 @@ Over the years, I’ve created projects ranging from **AI-powered apps**, **bloc
 📍 Based in Nashik, India | 🌎 Open to remote opportunities  
 💡 Always learning, experimenting, and pushing the boundaries of technology
 
+🌐 **Portfolio:** [Rohan Adhav Portfolio](https://rohan-adhav-portfolio.vercel.app)
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007bff&center=true&width=600&lines=Turning+ideas+into+real-world+solutions;Building+beautiful+and+scalable+apps;Data-driven+decision+making+with+AI;Always+learning+%26+exploring+new+tech" alt="typing animation"/>
 </p>
@@ -72,12 +74,11 @@ Full-stack platform for **publishing and exploring interactive stories**.
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express  
 
 ---
-
-**6. Personal Portfolio (React)**  
-- **Live:** [rohan-adhav-portfolio.vercel.app](https://rohan-adhav-portfolio.vercel.app/)  
-- **GitHub:** [portfolio](https://github.com/Rohan-Adhav/Rohan_Portfolio.git)  
-Showcases **projects, skills, and achievements** with a responsive layout.  
-**Tech Stack:** React.js, HTML, CSS, JavaScript  
+6. **Personal Portfolio (React)**  
+Live: [rohan-adhav-portfolio.vercel.app](https://rohan-adhav-portfolio.vercel.app)  
+GitHub: [portfolio](https://github.com/Rohan-Adhav/Rohan_Portfolio)  
+My **personal portfolio** showcasing all my projects, skills, and achievements with a responsive layout.  
+Tech Stack: React.js, HTML, CSS, JavaScript
 
 ---
 
