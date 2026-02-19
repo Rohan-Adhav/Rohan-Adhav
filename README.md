@@ -76,7 +76,7 @@ Full-stack platform for **publishing and exploring interactive stories**.
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express  
 
 ---
-6. **Personal Portfolio (React)**  
+**6. Personal Portfolio (React)**  
 Live: [rohan-adhav-portfolio.vercel.app](https://rohan-adhav-portfolio.vercel.app)  
 GitHub: [portfolio](https://github.com/Rohan-Adhav/Rohan_Portfolio)  
 My **personal portfolio** showcasing all my projects, skills, and achievements with a responsive layout.  
