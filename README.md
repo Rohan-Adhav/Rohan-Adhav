@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rohan Adhav
+# Hi there , I'm Rohan Adhav
 
 I’m a **Computer Engineering graduate (CGPA: 8.35)** passionate about building **scalable full-stack applications, AI systems, and data-driven solutions**.  
 I focus on writing **clean, efficient, production-ready code** that solves real-world problems.
