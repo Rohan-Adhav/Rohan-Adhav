@@ -8,6 +8,8 @@ Over the years, I’ve created projects ranging from **AI-powered apps**, **bloc
 
 🌐 **Portfolio:** [Rohan Adhav Portfolio](https://rohan-adhav-portfolio.vercel.app)
 
+---
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007bff&center=true&width=600&lines=Turning+ideas+into+real-world+solutions;Building+beautiful+and+scalable+apps;Data-driven+decision+making+with+AI;Always+learning+%26+exploring+new+tech" alt="typing animation"/>
 </p>
