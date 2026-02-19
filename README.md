@@ -91,7 +91,7 @@ Showcases **projects, skills, and achievements** with a responsive layout.
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/rohan-adhav-s15111115"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/rohan-adhav-fullstack"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://mail.google.com/mail/?view=cm&to=rohanadhav78@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://github.com/Rohan-Adhav"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://rohan-adhav-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
