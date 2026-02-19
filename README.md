@@ -85,10 +85,8 @@ Feel free to reach out or connect via any of the following platforms:
 
 - 💼 **LinkedIn:** [https://linkedin.com/in/rohan-adhav-fullstack](https://linkedin.com/in/rohan-adhav-fullstack)  
 - 🌐 **Portfolio:** [https://rohan-adhav-portfolio.vercel.app](https://rohan-adhav-portfolio.vercel.app)  
-- 📧 **Email:** <mailto:rohanadhav78@gmail.com>
+- 📧 **Email:** rohanadhav78@gmail.com  
 
 I’m always open to **collaboration, networking, and project discussions**. Let's connect!
-
-
-I’m always open to **collaboration, networking, and project discussions**. Let's connect!
+!
 
